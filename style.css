@@ -1,0 +1,26 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.coupon {
+    border: rgba(0, 0, 0, 0.247) solid 2px;
+    border-radius: 10px;
+}
+
+
+#input {
+    height: 100%;
+    outline: none;
+    float: left;
+}
+.coupon button{
+    height: 100%;
+    float: right;
+}
+.items {
+    margin-left: 20px;
+    list-style: 1;
+}
+
+ol li {
+    margin: 5px 0;
+}
